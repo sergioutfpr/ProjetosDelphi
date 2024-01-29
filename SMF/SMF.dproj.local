@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/01/26 15:53:21.000.919,=C:\Users\sergi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/01/26 15:53:51.000.262,D:\ProjetosDelphi\SMF\model.pas=C:\Users\sergi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/01/26 15:53:51.000.262,D:\ProjetosDelphi\SMF\model.dfm=C:\Users\sergi\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/01/26 15:54:18.000.914,D:\ProjetosDelphi\SMF\SMF.dproj=C:\Users\sergi\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2024/01/26 16:00:25.000.193,=D:\ProjetosDelphi\SMF\Unit1.pas</Transaction>
+    <Transaction>2024/01/26 16:04:23.000.832,D:\ProjetosDelphi\SMF\model\interfaces\entity\interfaces.pas=D:\ProjetosDelphi\SMF\Unit1.pas</Transaction>
+    <Transaction>2024/01/26 16:05:18.000.396,=D:\ProjetosDelphi\SMF\Unit1.pas</Transaction>
+    <Transaction>2024/01/26 16:06:43.000.710,D:\ProjetosDelphi\SMF\model\interfaces\entity\SMF.model.interfaces.entity.interfaces.pas=D:\ProjetosDelphi\SMF\model\interfaces\entity\interfaces.pas</Transaction>
+    <Transaction>2024/01/26 16:08:21.000.078,D:\ProjetosDelphi\SMF\model\entity\interfaces.pas=D:\ProjetosDelphi\SMF\Unit1.pas</Transaction>
+    <Transaction>2024/01/26 16:09:03.000.912,D:\ProjetosDelphi\SMF\model\entity\SMF.model.entity.interfaces.pas=D:\ProjetosDelphi\SMF\model\entity\interfaces.pas</Transaction>
+    <Transaction>2024/01/26 16:10:48.000.723,D:\ProjetosDelphi\SMF\model\entity\impl\SMF.model.entity.impl.cliente.pas=D:\ProjetosDelphi\SMF\model\entity\SMF.model.entity.interfaces.pas</Transaction>
+    <Transaction>2024/01/26 16:12:19.000.013,D:\ProjetosDelphi\SMF\model\entity\SMF.model.entity.interfaces.pas=D:\ProjetosDelphi\SMF\model\interfaces\entity\SMF.model.interfaces.entity.interfaces.pas</Transaction>
+    <Transaction>2024/01/26 16:16:33.000.927,D:\ProjetosDelphi\SMF\model\entity\impl\SMF.model.entity.impl.cliente.pas=</Transaction>
+    <Transaction>2024/01/26 16:17:40.000.752,=D:\ProjetosDelphi\SMF\model\entity\impl\SMF.model.entity.impl.cliente.pas</Transaction>
+    <Transaction>2024/01/26 16:19:56.000.311,D:\ProjetosDelphi\SMF\model\entity\impl\SMF.model.entity.impl.cliente.pas=</Transaction>
+    <Transaction>2024/01/27 09:00:58.166,=D:\ProjetosDelphi\SMF\model\entity\impl\smf.model.entity.impl.cliente.pas</Transaction>
+    <Transaction>2024/01/27 09:08:32.033,=D:\ProjetosDelphi\SMF\Unit1.pas</Transaction>
+    <Transaction>2024/01/27 09:09:01.593,D:\ProjetosDelphi\SMF\model\entity\impl\smf.model.entity.impl.item.pas=D:\ProjetosDelphi\SMF\Unit1.pas</Transaction>
+    <Transaction>2024/01/27 09:45:48.577,=D:\ProjetosDelphi\SMF\Unit1.pas</Transaction>
+    <Transaction>2024/01/27 09:46:09.582,D:\ProjetosDelphi\SMF\model\entity\impl\smf.model.entity.impl.notasemitidas.pas=D:\ProjetosDelphi\SMF\Unit1.pas</Transaction>
+    <Transaction>2024/01/27 10:00:23.479,=D:\ProjetosDelphi\SMF\Unit1.pas</Transaction>
+    <Transaction>2024/01/27 10:00:54.052,D:\ProjetosDelphi\SMF\model\entity\impl\smf.model.entity.impl.itensemitidos.pas=D:\ProjetosDelphi\SMF\Unit1.pas</Transaction>
+    <Transaction>2024/01/27 10:21:17.125,=D:\ProjetosDelphi\SMF\Unit1.pas</Transaction>
+    <Transaction>2024/01/27 10:32:40.669,D:\ProjetosDelphi\SMF\model\entity\impl\smf.model.entity.impl.entity.pas=D:\ProjetosDelphi\SMF\Unit1.pas</Transaction>
+    <Transaction>2024/01/27 10:37:57.142,=D:\ProjetosDelphi\SMF\Unit1.pas</Transaction>
+    <Transaction>2024/01/27 10:41:25.136,D:\ProjetosDelphi\SMF\model\entity\impl\smf.model.entity.impl.precovenda.pas=D:\ProjetosDelphi\SMF\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

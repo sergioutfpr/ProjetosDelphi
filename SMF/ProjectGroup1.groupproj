@@ -1,0 +1,36 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{B773CCA1-4AFC-4FEB-9C0C-C69D8CC66BCE}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="SMF.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="SMF">
+        <MSBuild Projects="SMF.dproj"/>
+    </Target>
+    <Target Name="SMF:Clean">
+        <MSBuild Projects="SMF.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="SMF:Make">
+        <MSBuild Projects="SMF.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="SMF"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="SMF:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="SMF:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>
